@@ -9,3 +9,4 @@ Change 'number' variable to the number of stocks you are going to take.
 Enter your desired target return in the 'targetreturn' variable.
 Enter your weights manually after you get the weights from Markowitz or use Pandas instead of doing the manual way.
 Non-Normal tests have been performed to check if your stock data or your return data is Normal or not.
+Finally change the variable 'nsample' to the number of trading days your data had.
